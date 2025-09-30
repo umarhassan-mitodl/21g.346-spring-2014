@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "8c5f790a-32f6-48a9-759a-1793f0156d38",
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b3f06200-b2f7-7392-70ec-d23ecbef6e2d",
+    "website": "21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014"
+  },
+  "course_title": "Topics in Modern French Literature and Culture: North America Through French Eyes",
+  "hide_download": true,
+  "course_description": "This course offers an analysis of the keen interest shown by France and the French in North American cultures since the eighteenth century. Not only did France contribute to the construction of both Canadian and American nations but also it has constantly delineated its identity by way of praising or criticizing North American cultures. Taught in French.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.346",
+  "course_image_thumbnail": {
+    "content": "9f0aa655-e7ed-fc5d-647d-3e9cf9b0ece1",
+    "website": "21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "21d9208c-23ba-4949-b61f-a0ce9f615803",
+  "site_short_id": "21g.346-spring-2014",
+  "site_url_path": "courses/21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014",
+  "title": "Course Metadata"
+}
