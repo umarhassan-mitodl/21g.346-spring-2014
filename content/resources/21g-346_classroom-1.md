@@ -4,8 +4,6 @@ description: Photograph of the classroom used for the course.
 file: /courses/21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014/f55217b55efe5af65240d663d6f14342_21G-346_classroom-1.jpg
 file_size: 39864
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

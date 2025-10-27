@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of readings and films assigned for each
   session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -37,7 +35,7 @@ Présentation du semestre
 {{< tdopen >}}
 
 
-Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[[Online book (PDF)](http://www.pourlhistoire.com/docu/voyage-celine.pdf) (en français) pp. 158–59\]
+Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[{{% resource_link "af929d0d-1b68-453d-9917-ef8ae9e0a451" "Online book (PDF)" %}} (en français) pp. 158–59\]
 
 
 {{< tdclose >}}
@@ -106,11 +104,11 @@ irakienne
 
 {{% resource_link 0563ecbd-f08f-abad-8193-37b59e230088 "De Gaulle et l'OTAN, Discours et Lettres, 1959–1966. (PDF)" %}}
 
-De Gaulle, Charles. « [Vive le Québec libre!](https://www.cbc.ca/news/canada/montreal/charles-de-gaulle-speech-50th-annivesary-1.4218130) » 23 juillet 1967.
+De Gaulle, Charles. « {{% resource_link "b0d0948e-0611-4f86-85b6-1b8aa174a143" "Vive le Québec libre!" %}} » 23 juillet 1967.
 
-Nicolas Sarkozy. « Discours de Nicolas Sarkozy à La Réunion. » April 7, 2012. YouTube. Accessed September 18, 2014. [https://www.youtube.com/watch?v=pKKBxUeUU7Y](https://www.youtube.com/watch?v=pKKBxUeUU7Y)
+Nicolas Sarkozy. « Discours de Nicolas Sarkozy à La Réunion. » April 7, 2012. YouTube. Accessed September 18, 2014. {{% resource_link "5bb3a253-1ace-4bdf-9614-6d04f31893ce" "https://www.youtube.com/watch?v=pKKBxUeUU7Y" %}}
 
-LeoNellDV. « Discours de Villepin à l'ONU contre la guerre en Irak. » November 14, 2010. YouTube. Accessed September 18, 2014. [https://www.youtube.com/watch?v=RNxU-tN8qNc](https://www.youtube.com/watch?v=RNxU-tN8qNc)
+LeoNellDV. « Discours de Villepin à l'ONU contre la guerre en Irak. » November 14, 2010. YouTube. Accessed September 18, 2014. {{% resource_link "a1f695e9-da77-49aa-80b7-c9b07b078a8a" "https://www.youtube.com/watch?v=RNxU-tN8qNc" %}}
 
 
 {{< tdclose >}}
@@ -128,7 +126,7 @@ Les États-Unis d'Europe
 
 Hugo, Victor. « Les États–Unis d'Europe, » Congrès de la paix, 21 août 1849. Extrait : « Un jour viendra où les armes vous tomberont… la fraternité des hommes et la puissance de Dieu! » In _Victor Hugo on Things That Matter : A Reader_. Yale University Press, 2009, pp. 455–56. ISBN : 9780300122459.
 
-François-Poncet, André. « [Europe Unis-toi!](http://www.cvce.eu/obj/europe_unis_toi_dans_le_figaro_18_juin_1947-fr-d940bcb1-75eb-439d-bc66-e8874fad3035.html), » Le Figaro, 18 juin 1947.
+François-Poncet, André. « {{% resource_link "f7b4efa7-f700-46bf-9866-33702e968b0b" "Europe Unis-toi!" %}}, » Le Figaro, 18 juin 1947.
 
 
 {{< tdclose >}}
@@ -152,7 +150,7 @@ La culture de masse
 
 ### Film
 
-[_Jour de Fête_](http://www.allocine.fr/video/player_gen_cmedia=19534544&cfilm=2605.html). Directed by Jacques Tati. 2013.
+{{% resource_link "5df4cc5e-11bf-407b-a019-202c3331bbdd" "_Jour de Fête_" %}}. Directed by Jacques Tati. 2013.
 
 
 {{< tdclose >}}
@@ -224,7 +222,7 @@ Voyages transatlantiques
 
 ### Film
 
-[_Les Triplettes de Belleville_](http://www.allocine.fr/film/fichefilm_gen_cfilm=44206.html). Directed by Sylvain Chomet. 80 min. 2003.
+{{% resource_link "a6e01550-cb38-43c6-a859-b380b746f82e" "_Les Triplettes de Belleville_" %}}. Directed by Sylvain Chomet. 80 min. 2003.
 
 
 {{< tdclose >}}
@@ -238,7 +236,7 @@ Voyages transatlantiques
 La culture populaire américaine en France
 {{< tdclose >}}
 {{< tdopen >}}
-Hall, Stuart. « Déviance, Politique et Médias » 1974. In _The Lesbain and Gay Studies Reader_. Routledge, 1993, pp. 62–90. \[Preview with [Google Books](http://books.google.com/books?id=PaNdHqo-9wIC&pg=PA62)\]
+Hall, Stuart. « Déviance, Politique et Médias » 1974. In _The Lesbain and Gay Studies Reader_. Routledge, 1993, pp. 62–90. \[Preview with {{% resource_link "b1b3e61c-42d5-4b6d-92a9-9ac977daf81b" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,9 +268,9 @@ Intervention d'Anne Miller. Ancienne attachée culturelle de la France aux Etats
 {{< tdopen >}}
 
 
-Regourd, Serge (coord.). [De l_'Exception Culturelle_](http://questionsdecommunication.revues.org/7994). Paris, Éd. La Documentation française, coll. Problèmes politiques et sociaux, 904, september. 2004.
+Regourd, Serge (coord.). {{% resource_link "908b6264-8ec1-4634-adc4-5f774a9cd206" "De l_'Exception Culturelle_" %}}. Paris, Éd. La Documentation française, coll. Problèmes politiques et sociaux, 904, september. 2004.
 
-Saint-Filles, Laurence. « [La Culture Comme Levier de la Puissance : Le Cas de la Politique Culturelle de la France aux États-Unis Pendant la Guerre Froide](http://dx.doi.org/10.3917/hes.094.0097). » _Histoire Économie & Société_, no. 4 (2009): 97–109.
+Saint-Filles, Laurence. « {{% resource_link "42d671cc-d45c-4e12-9a48-a9a3991b6d3d" "La Culture Comme Levier de la Puissance : Le Cas de la Politique Culturelle de la France aux États-Unis Pendant la Guerre Froide" %}}. » _Histoire Économie & Société_, no. 4 (2009): 97–109.
 
 
 {{< tdclose >}}
@@ -296,7 +294,7 @@ La France américaine
 
 ### Film
 
-[_La France made in USA_](http://boutique.arte.tv/f1615-francemadeinusa). Directed by Bob Swaim. 53 min. 2007.
+{{% resource_link "e4a24864-a938-4d06-9255-fa570e93f108" "_La France made in USA_" %}}. Directed by Bob Swaim. 53 min. 2007.
 
 
 {{< tdclose >}}
@@ -340,7 +338,7 @@ Discussion avec Geoffroy de Lagasnerie, professeur de philosophie et de sciences
 La France et vous !
 {{< tdclose >}}
 {{< tdopen >}}
-Kaplan, Alice. _Trois Américaines à Paris : Jacqueline Bouvier Kennedy, Susan Sontag, Angela Davis (Dreaming in French)_. Gallimard, 2012, pp. [11–18](http://www.edenlivres.fr/p/44497) and 303–10. ISBN : 9782072464294.
+Kaplan, Alice. _Trois Américaines à Paris : Jacqueline Bouvier Kennedy, Susan Sontag, Angela Davis (Dreaming in French)_. Gallimard, 2012, pp. {{% resource_link "ea6746b4-24e9-4578-8767-7586b7dc5521" "11–18" %}} and 303–10. ISBN : 9782072464294.
 {{< tdclose >}}
 
 {{< trclose >}}

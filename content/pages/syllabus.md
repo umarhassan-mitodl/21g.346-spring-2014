@@ -3,8 +3,6 @@ content_type: page
 description: This section provides an overview of the course and information on meeting
   times, prerequisites, grading policy, and the schedule of course topics and key
   dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
